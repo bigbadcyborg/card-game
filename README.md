@@ -15,5 +15,3 @@ A self-contained browser app for the goofy tech-themed TCG.
 - `index.html` — Structure
 - `styles.css` — Tech neon styling
 - `app.js` — Card data + interactivity
-
-Enjoy. Contigo — with you. Even when you don't want it.
