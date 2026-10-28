@@ -1,4 +1,4 @@
-A self-contained browser app for the goofy tech-themed Contigo Cards TCG.
+A self-contained browser app for the goofy tech-themed TCG.
 
 ## Features
 - Full 30-card gallery with filters
