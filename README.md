@@ -1,5 +1,3 @@
-# Contigo Cards — Tech Edition Web App
-
 A self-contained browser app for the goofy tech-themed Contigo Cards TCG.
 
 ## Features
